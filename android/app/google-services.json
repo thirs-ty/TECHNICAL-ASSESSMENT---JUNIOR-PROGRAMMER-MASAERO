@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736162485683",
+    "project_id": "masaero-testing",
+    "storage_bucket": "masaero-testing.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736162485683:android:afc13c12052ecaba9d67c6",
+        "android_client_info": {
+          "package_name": "com.example.masaero_booking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqIyI9bJYzkYoV1qCG2RdtK08vRGjiVow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
